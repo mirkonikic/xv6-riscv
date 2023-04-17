@@ -11,6 +11,11 @@ https://www.youtube.com/watch?v=yLs_NRwu1Y4
 https://www.youtube.com/watch?v=Ps0JFsyX2fU
 https://www.youtube.com/watch?v=fUNFDPAxs2Q
 
+Port to HW:
+https://www.hackster.io/news/risc-v-on-fpgas-the-xv6-riscv-fpga-project-a3b6cfb1d47f
+https://gitlab.com/x653/xv6-riscv-fpga
+https://www.uni-bamberg.de/fileadmin/sysnap/slides/xv6-riscv.pdf
+
 
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
