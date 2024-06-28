@@ -1,4 +1,14 @@
-# user space
+# user space: utilities
+
+## todo:
+- [x] sleep
+- [ ] ping pong
+- [ ] find
+- [ ] xargs
+- [ ] doom
+
+## bonus:
+- [x] boring
 
 ### sleep cmd
 - `kernel/sysproc.c` look for sys_sleep
