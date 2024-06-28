@@ -79,9 +79,10 @@ struct trapframe {
   /* 280 */ uint64 t6;
 };
 
+// process states
 enum procstate { UNUSED, USED, SLEEPING, RUNNABLE, RUNNING, ZOMBIE };
 
-// Per-process state
+// INFO: Per-process state -> similar to task struct?
 struct proc {
   struct spinlock lock;
 
